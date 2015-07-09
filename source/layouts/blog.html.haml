@@ -4,25 +4,28 @@
     %meta{:charset => "utf-8"}/
     %meta{:content => "IE=edge;chrome=1", "http-equiv" => "X-UA-Compatible"}/
     = stylesheet_link_tag "all"
+    %link{:href => "http://fonts.googleapis.com/css?family=Oswald", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "http://fonts.googleapis.com/css?family=Roboto+Slab:300|Roboto", :rel => "stylesheet", :type => "text/css"}/
     %title
-      Blog Title#{' - ' + current_article.title unless current_article.nil?}
+      Gate Closed#{' - ' + current_article.title unless current_article.nil?}
     = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
   %body
+    = partial 'layouts/header'
     .container
-      .col-md-3
+      .col-md-3.hidden-sm.hidden-xs
+        = partial 'layouts/sidebar'
       .col-md-9
-        %header
-          %h1
-            = current_article.title
-      
-          %main
-            %p.tagline
-              %span By Jay
-              \\\
-              %time= current_article.date.strftime('%b %e %Y')
-        
-            = yield
-      
+        %h1
+          = current_article.title
+  
+        %article
+          %p.tagline
+            %span By Jay
+            \\\
+            %time= current_article.date.strftime('%b %e %Y')
+  
+          = yield
+
         
     %script{:src => "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"}
     = javascript_include_tag "application"

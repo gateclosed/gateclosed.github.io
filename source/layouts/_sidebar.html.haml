@@ -1,0 +1,25 @@
+.sidebar
+  %h2
+    About Me
+  %p
+    Hi There! I'm Jay.
+    %br
+    I'm an avid traveler, aspiring hacker and expert beer drinker. This is a place for me to share some knowledge, spread a few thoughts or just generally rant. 
+    
+  %h2
+    Current Location
+  
+  
+  = image_tag 'de.png' 
+  %p.inline Berlin, Germany
+   
+  %h2 Recent Articles
+  %ul
+    - blog.articles[0...10].each do |article|
+      %li
+        = link_to article.title, article
+  %h2 Tags
+  - blog.tags.each do |tag, articles|
+    .tag= link_to "#{tag} (#{articles.size})", tag_path(tag)
+      
+      
