@@ -78,3 +78,18 @@ blockquote {
 article h2 {
   color:$dark-grey;
 }
+
+article {
+  padding:0 0 2em 0;
+  border-bottom:5px solid $green;
+  img {
+    text-align:center;
+  }
+}
+
+.comments {
+  border-radius:10px;
+  border:1px dotted $green;
+  padding:1em;
+  margin: 2em 0 2em 0;
+}

@@ -46,7 +46,7 @@ end
 
 configure :development do
   activate :disqus do |d|
-    d.shortname = nil
+    d.shortname = "nil"
   end
 end
 
