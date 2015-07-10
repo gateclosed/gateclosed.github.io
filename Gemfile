@@ -10,6 +10,7 @@ gem "middleman-livereload", "~> 3.3.0"
 gem 'nokogiri', '~> 1.6.6.2'
 gem "middleman-deploy", "~> 1.0"
 gem "middleman-disqus"
+gem 'middleman-spellcheck'
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"

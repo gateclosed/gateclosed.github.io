@@ -97,7 +97,7 @@ Now, go forth and get yourself a job.
 
 Living in Berlin? Berlin's unemployment rate is 10.8%, and there are plenty of people out there with EU passports who are willing to work for less than you. 
 
-Check out my post on Getting a Job in Berlin.
+Check out my post on [Getting a Job in Berlin](/getting_a_job_in_berlin) and leave me a comment below!
 
 
 
