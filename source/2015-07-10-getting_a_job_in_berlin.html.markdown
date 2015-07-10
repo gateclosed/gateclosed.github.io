@@ -4,7 +4,7 @@ date: 2015-07-10 09:18 UTC
 tags: Working, Germany, Berlin
 ---
 
-Lets start by saying that this is no easy task. I overheard a conversation with two guys a while back - *Guy 1* was a house-painter by trade. He was ready to work - would bring his van over from London, with all his brushes and rollers and make a lift in Berlin. Simples. *Guy 2* told him, in no uncertain terms, that for every one of him, there were 100 Polish house-painters who were willing to work longer, harder and for less money than he was.
+Lets start by saying that this is no easy task. I overheard a conversation with two guys a while back - *Guy 1* was a house-painter by trade. He was ready to work - would bring his van over from London, with all his brushes and rollers and make a life in Berlin. Simples. *Guy 2* told him, in no uncertain terms, that for every one of him, there were 100 Polish house-painters who were willing to work longer, harder and for less money than he was.
 
 Now, I don't know about Polish painters or their work ethic, but what I do know is that as an Australian in Berlin it's tough to find work. The figures speak for themselves. Currently unemployment in Berlin is at 10.8%. That's high.
 
