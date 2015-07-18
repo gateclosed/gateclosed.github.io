@@ -102,15 +102,27 @@
         </div>
       </div>
       <div class='col-md-9'>
-        <h1>
-          Articles tagged 'Renting'
-        </h1>
-        <ul>
-          <li>
-            <a href="/renting_a_flat_in_berlin/">Renting a flat in Berlin</a>
-            <span>Jul 10</span>
-          </li>
-        </ul>
+        <div class='panel panel-default'>
+          <div class='panel-heading'>
+            Contact me
+          </div>
+          <div class='panel-body'>
+            <form action='//formspree.io/gateclosedblog@gmail.com' method='POST'>
+              <div class='form-group'>
+                <input class='form-control' name='name' placeholder='Name' type='text'>
+              </div>
+              <div class='form-group'>
+                <input class='form-control' name='_replyto' placeholder='Email' type='email'>
+              </div>
+              <div class='form-group'>
+                <textarea class='form-control' name='content' placeholder='Message' rows='4' type='text'></textarea>
+                <input name='_gotcha' style='display:none' type='text'>
+                <input name='_next' type='hidden' value='../thanks'>
+              </div>
+              <div class='btn btn-primary' type='submit' value='Send'>Send</div>
+            </form>
+          </div>
+        </div>
       </div>
     </div>
   </body>
