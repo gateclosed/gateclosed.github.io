@@ -55,3 +55,7 @@ configure :build do
     d.shortname = "gateclosed"
   end
 end
+
+set :url_root, 'http://gateclosed.com'
+
+activate :search_engine_sitemap

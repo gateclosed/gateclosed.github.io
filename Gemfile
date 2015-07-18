@@ -14,6 +14,7 @@ gem 'image_optim'
 gem 'image_optim'
 gem 'image_optim_pack'
 gem 'middleman-imageoptim'
+gem 'middleman-search_engine_sitemap'
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"
