@@ -1,0 +1,16 @@
+.panel.panel-default
+  .panel-heading
+    Contact me
+  .panel-body
+    %form{:action => "//formspree.io/gateclosedblog@gmail.com", :method => "POST"}
+      .form-group
+        %input{:name => "name", :type => "text", :class => "form-control", :placeholder => "Name"}
+      .form-group
+        %input{:name => "_replyto", :type => "email", :class => "form-control", :placeholder => "Email"}
+      .form-group
+        %textarea{:name => "content", :type => "text", :class => "form-control", :rows => "4", :placeholder => "Message"}
+        
+        %input{:name => "_gotcha", :style => "display:none", :type => "text"}/
+        %input{:name => "_next", :type => "hidden", :value => "../thanks"}
+        
+      %input{:type => "submit", :value => "Send"}

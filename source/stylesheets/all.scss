@@ -17,6 +17,7 @@ img {
 header {
   padding:1em 0;
   background:#efefef;
+  margin-bottom:3em;
 }
 
 .logo {
@@ -75,8 +76,12 @@ blockquote {
   border-left:5px solid $green;
 }
 
+h1 {
+  color:$green;
+}
+
 article h2 {
-  color:$dark-grey;
+  color:$green;
 }
 
 article {
@@ -92,4 +97,10 @@ article {
   border:1px dotted $green;
   padding:1em;
   margin: 2em 0 2em 0;
+}
+
+.blog_list_single {
+  display:block;
+  border-bottom:1px dotted $green;
+  padding-bottom:1em;
 }

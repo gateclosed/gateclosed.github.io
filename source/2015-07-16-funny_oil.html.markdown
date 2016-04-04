@@ -1,9 +1,0 @@
----
-title: A funny picture in oil and vinegar
-date: 2015-07-16 20:56 UTC
-tags: Food, Funny, Random
----
-
-My girlfriend poured olive oil and balsamic vinegar onto a plate to dip bread into. It looks like a cartoon duck.
-
-![Cartoon Duck](../images/oil.jpg)

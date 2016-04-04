@@ -1,7 +1,7 @@
 ---
 title: Chia Seed Pudding by a Superfood virgin!
 date: 2015-07-14 19:04 UTC
-tags: food, Berlin, chia
+tags: Food, Berlin
 ---
 
 As you might have assumed from the title, I'm not that conscious about what I eat. I love to eat out. In fact, eating out is one of my hobbies. I love to try new places, and I love to cook. Let's face it - a lot of great tasting food is unhealthy. I'm not here to tell you what you should be eating. That would make me a hypocrite.

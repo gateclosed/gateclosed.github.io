@@ -1,7 +1,7 @@
 ---
 title: Fried Chicken in Berlin
 date: 2015-07-18 18:32 UTC
-tags:
+tags: Food, Berlin
 ---
 
 Fried chicken is one of my favourite foods, hands down. Since moving to Berlin, I've been on the hunt for the city's best. Fried chicken in a major city shouldn't be too hard to find, right? Wrong. So wrong. 
