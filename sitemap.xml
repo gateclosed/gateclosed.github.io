@@ -37,26 +37,32 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://gateclosed.com/craft_beer_berlin/</loc>
+    <lastmod>2016-04-04T18:39:13+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://gateclosed.com/contact/</loc>
     <lastmod>2015-07-18T22:59:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gateclosed.com/thanks/</loc>
-    <lastmod>2015-07-18T22:42:35+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://gateclosed.com/</loc>
-    <lastmod>2015-07-18T22:24:56+02:00</lastmod>
+    <loc>http://gateclosed.com/tags/berlin/</loc>
+    <lastmod>2015-07-09T19:08:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://gateclosed.com/2015/07/page/2/</loc>
     <lastmod>2015-07-09T19:08:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gateclosed.com/</loc>
+    <lastmod>2015-07-18T22:24:56+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -103,6 +109,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://gateclosed.com/2016/04/04/</loc>
+    <lastmod>2015-07-09T19:08:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gateclosed.com/2016/04/</loc>
+    <lastmod>2015-07-09T19:08:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gateclosed.com/2016/</loc>
+    <lastmod>2015-07-09T19:08:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gateclosed.com/tags/beer/</loc>
+    <lastmod>2015-07-09T19:08:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gateclosed.com/tags/craft/</loc>
+    <lastmod>2015-07-09T19:08:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://gateclosed.com/tags/food/</loc>
     <lastmod>2015-07-09T19:08:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -127,13 +163,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gateclosed.com/tags/berlin/</loc>
-    <lastmod>2015-07-09T19:08:24+02:00</lastmod>
+    <loc>http://gateclosed.com/thanks/</loc>
+    <lastmod>2015-07-18T22:42:35+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gateclosed.com/tags/working-visa/</loc>
+    <loc>http://gateclosed.com/tags/germany/</loc>
     <lastmod>2015-07-09T19:08:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -145,7 +181,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gateclosed.com/tags/germany/</loc>
+    <loc>http://gateclosed.com/tags/working-visa/</loc>
     <lastmod>2015-07-09T19:08:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
